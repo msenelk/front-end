@@ -2,9 +2,10 @@
 
 
 ### Html
-[https://github.com/mybounds/front-end/blob/main/html/index.html](Html ilk ödev)
+
+[ilk ödev](https://github.com/mybounds/front-end/blob/main/html/index.html)
 
 
 ----
 
-[www.patika.dev](Patika.dev)
+[Patika.dev](https://www.patika.dev/tr)
