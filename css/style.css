@@ -1,0 +1,57 @@
+*{
+    background-color:antiquewhite;
+}
+
+.ortala{
+    text-align: center;
+}
+
+ul.menu{
+    text-align: center;
+    list-style-type:none;
+    padding: 0;
+    margin: 0;
+}
+ul.menu li{
+    display: inline;
+}
+
+ul.menu li a{
+    text-decoration: none;
+    padding: .2em 1em;
+    color:black;
+    background-color: aliceblue;
+}
+ul.menu li a:hover{
+    color:white;
+    background-color: #999;
+} 
+
+.ortala a{
+    text-decoration:none;
+}
+
+.ortala a:hover{
+    color:white;
+    background-color: #999;
+}
+.ortala ul{
+    list-style-position: inside;
+}
+.ortala img{
+    width: 150px;
+    height: auto;
+}
+
+article p{
+    background-color: white;
+}
+.kutu{
+    background-color: #FFF5E4;
+    width: 300px;
+    border: 1px solid green;
+    padding: 40px;
+    margin-left:1070px;
+    margin-top: 5px;
+
+}
