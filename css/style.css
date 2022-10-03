@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    padding: 0;
+}
+.clear{
+    clear: both;
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+.left-bar{
+    width: 200px;
+    float:left;
+}
+
+.content{
+    width: 800px;
+    float: left;
+}
+
+.card{
+    width: 22%;
+    float: left;
+    padding: 2px auto;
+}

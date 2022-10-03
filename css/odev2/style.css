@@ -15,7 +15,7 @@
 }
 
 img{
-    margin:auto;
+    margin-left: 780px;
     text-align: center;
     display: block;
 
@@ -41,19 +41,8 @@ img{
     width: 33%;
     float: left;
     background-color: #62B3AA;
-    
-}
-.box2 {
-    text-align: center;
-    height: 100%;
-    width: 33%;
-    float: left;
-    background-color: #62B3AA;
+    display: block;
+    margin: 2px;
 
-}.box3 {
-    text-align: center;
-    height: 100%;
-    width: 33%;
-    float: left;
-    background-color: #62B3AA;
+    
 }
